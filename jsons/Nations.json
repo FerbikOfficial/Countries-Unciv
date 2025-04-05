@@ -2,7 +2,7 @@
 	{
 		"name": "Туркменистан",
 		"leaderName": "Сердар Бердымухамедов",
-		"adjective": ["туркменистанец"],
+		"adjective": ["Туркменистанец"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
 		
@@ -33,7 +33,7 @@
 		"cities": ["Ашхабад","Туркменбаши","Сердар", "Дашогуз", "Балканобад", "Конье-Угренч"]
 	},
 	{
-		"name": "Пещерные Люди",
+		"name": "Пещерные люди",
 		"leaderName": "Вождь Пещерных",
 		"adjective": ["пещерный человек"],
 		"startBias": ["Avoid [Desert]"],
