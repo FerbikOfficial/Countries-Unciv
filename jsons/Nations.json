@@ -36,7 +36,7 @@
 		"name": "Пещерные Люди",
 		"leaderName": "Вождь Пещерных",
 		"adjective": ["пещерный человек"],
-		"startBias": [Avoid "Desert"],
+		"startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "На земле появились первые люди. На данный момент у них примитивные технологии и они живут в пещерах.",
