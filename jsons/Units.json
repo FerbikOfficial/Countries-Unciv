@@ -9,5 +9,19 @@
 		"range": 2,
 		"cost": 40,
 		"attackSound": "nonmetalhit"
-	}
+	},
+        {
+		"name": "Т34",
+		"unitType": "Armored",
+		"uniqueTo": "СССР",
+		"replaces": "Tank",
+		"movement": 5,
+		"strength": 100,
+		"cost": 376,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"unicues": ["Can move after attacking", "No defensive terrain bonus"]
+		"attackSound": "tankshot"
+        }
 ]
